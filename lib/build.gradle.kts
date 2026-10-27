@@ -10,8 +10,8 @@ plugins {
 
 val javaVersion = JavaVersion.VERSION_1_8
 val buildType = "release"
-val libVersion = "0.2.0"
-val jniVersionTag = "v0.0.6"
+val libVersion = "0.3.0"
+val jniVersionTag = "v0.0.7"
 
 android {
     namespace = "health.flo.network.ohttp.encapsulator"
