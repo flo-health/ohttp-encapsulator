@@ -12,7 +12,7 @@ for [Cloudflare Privacy Gateway Client Library](https://github.com/cloudflare/pr
 
 ```kotlin
 dependencies {
-    implementation("com.github.flohealth:ohttp-encapsulator:0.2.0")
+    implementation("com.github.flohealth:ohttp-encapsulator:0.3.0")
 }
 ```
 
